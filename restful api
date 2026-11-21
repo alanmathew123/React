@@ -1,0 +1,7 @@
+POST /users
+Content-Type: application/json
+
+{
+  "name": "Ada",
+  "email": "ada@example.com"
+}
